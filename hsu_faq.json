@@ -1,0 +1,81 @@
+[
+  {
+    "question": "HSUHK本科生学费是多少？",
+    "answer": "2024-25学年全日制本科生学费为每年HK$42,100，分两期缴付。详情参考财务处官网：<a href='https://fo.hsu.edu.hk'>财务处链接</a>"
+  },
+  {
+    "question": "如何申请宿舍？",
+    "answer": "新生需在7月1日前通过<strong>学生事务系统</strong>提交申请，优先考虑非本地生。宿舍费每月HK$2,500（双人间）。"
+  },
+  {
+    "question": "计算机科学专业有哪些必修课程？",
+    "answer": "必修课程包括：1) 编程基础（COMP1001） 2) 数据结构（COMP2005） 3) 人工智能导论（COMP3107）。完整列表见<a href='https://cs.hsu.edu.hk'>计算机系官网</a>"
+  },
+  {
+    "question": "计算机科学专业需要学习哪些数学课程？",
+    "answer": "必修数学课程包括：<strong>线性代数（MATH1003）</strong>、<strong>离散数学（MATH2001）</strong>和<strong>概率统计（MATH2005）</strong>。详情见<a href='https://cs.hsu.edu.hk/curriculum'>课程大纲</a>"
+  },
+  {
+    "question": "非本地学生申请本科需要什么语言成绩？",
+    "answer": "需提供以下任一证明：1) 雅思<strong>6.0分</strong>或以上 2) 托福<strong>80分</strong>（网考）3) 同等英语水平证明。非英语成绩单需公证翻译。"
+  },
+  {
+    "question": "校园内有哪些餐饮选择？",
+    "answer": "主校区设有：1) 学生食堂（人均HK$30-50）2) 咖啡厅（星巴克合作）3) 便利店（7-Eleven）。位置参考<a href='https://www.hsu.edu.hk/campus-map'>校园地图</a>"
+  },
+  {
+    "question": "有哪些海外交换合作院校？",
+    "answer": "合作院校包括：1) 英国诺丁汉大学（商学院优先）2) 澳大利亚昆士兰科技大学 3) 美国加州州立大学。申请需GPA<strong>3.0+</strong>，截止日期每年<strong>3月1日</strong>。"
+  },
+  {
+    "question": "学校提供实习推荐吗？",
+    "answer": "职业发展中心提供：1) 定期企业招聘会 2) <strong>LinkedIn简历优化</strong>服务 3) 与<strong>阿里巴巴香港</strong>等企业的合作实习项目。登录<a href='https://career.hsu.edu.hk'>Career Portal</a>查看最新机会。"
+  },
+  {
+    "question": "研究生申请方式有哪些？",
+    "answer": "可通过以下途径申请：1) 在线系统（<a href='https://apply.hsu.edu.hk'>申请链接</a>）2) 纸质表格（教务处领取）3) 委托中介（需公证授权书）。<br><strong>推荐使用在线系统</strong>，处理速度更快。"
+  },
+  {
+    "question": "奖学金申请什么时候截止？",
+    "answer": "2024-25学年的主要奖学金截止日期：<ul><li>入学奖学金：<strong>2024年6月30日</strong></li><li>学业进步奖学金：<strong>每学期开学后1个月</strong></li></ul>（每年可能调整，请以<a href='https://scholarship.hsu.edu.hk'>官网</a>为准）"
+  },
+  {
+    "question": "如何办理学生证补办？",
+    "answer": "需完成以下步骤：1) 在教务处网站提交<strong>补办申请</strong> 2) 携带身份证+<strong>HK$50工本费</strong>到A栋101室 3) 3个工作日后领取新卡。"
+  },
+  {
+    "question": "图书馆开放时间是怎样的？",
+    "answer": "常规开放时间：<br>• <strong>学期期间</strong>：周一至周五 8:00-22:00，周末 9:00-17:00<br>• <strong>考试周</strong>：延长至24:00（需学生证进入）<br>• <strong>假期</strong>：10:00-18:00<br>实时查询：<a href='https://library.hsu.edu.hk/opening-hours'>图书馆官网</a>"
+  },
+  {
+    "question": "健身房需要预约吗？",
+    "answer": "使用规则：<br>1) <strong>预约制</strong>：通过「HSUHK Sports」APP预约时段<br>2) <strong>费用</strong>：全日制学生免费，需出示学生证<br>3) <strong>开放时间</strong>：工作日 7:00-21:00，周末 9:00-18:00<br>※ 需自备锁具和毛巾"
+  },
+  {
+    "question": "食堂可以用支付宝吗？",
+    "answer": "支付方式：<br>✓ <strong>八达通</strong>（推荐，享受学生折扣）<br>✓ <strong>AlipayHK/微信支付</strong>（仅限部分摊位）<br>✗ 不接受现金<br>※ 学生套餐价格范围：HK$25-40"
+  },
+  {
+    "question": "校园内是否有无障碍通道？",
+    "answer": "无障碍支持：<br>✓ 所有主要建筑均有<strong>轮椅斜坡</strong>和电梯<br>✓ 图书馆提供<strong>盲文导览</strong><br>✓ 可预约<strong>无障碍接送车</strong>（电话：3411 2345）<br>详细指引：<a href='https://www.hsu.edu.hk/accessibility'>无障碍服务页面</a>"
+  },
+  {
+    "question": "校园WiFi怎么连接？",
+    "answer": "连接步骤：<br>1. 选择网络<strong>HSUHK-Student</strong><br>2. 用户名：<code>学号@hsu.edu.hk</code><br>3. 密码：<code>身份证后6位</code><br>📶 信号覆盖图：<a href='https://www.hsu.edu.hk/wifi-map'>查看热点分布</a>"
+  },
+  {
+    "question": "How to borrow books from the library?",
+    "answer": "Borrowing process:<br>1. Bring your <strong>student card</strong> to the service desk<br>2. Maximum <strong>10 books</strong> for 30 days<br>3. Renew online: <a href='https://library.hsu.edu.hk'>Library Portal</a>",
+    "language": "en"
+  },
+  {
+    "question": "Who is the teacher of this class?",
+    "answer": "He is Dr. Wong Wai Kit, he is my Male God",
+    "language": "en"
+  },
+  {
+    "question": "What is Hang Seng University?",
+    "answer": "Hang Seng University of Hong Kong (HSUHK) is a private liberal-arts-oriented institution renowned for its business, communication, and humanities programs, emphasizing small-class teaching and industry collaboration.",
+    "language": "en"
+  }
+]
