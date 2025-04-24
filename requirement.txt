@@ -1,0 +1,7 @@
+sentence-transformers
+torch
+gradio
+edge-tts
+transformers
+pydub
+soundfile
