@@ -2,7 +2,7 @@
 An AI assistant for HSUHK with voice and text support
 # HSUHK AI Assistant
 
-![Demo Screenshot](docs/screenshot.png)
+
 
 An intelligent voice/text assistant for HSUHK students, featuring:
 - Voice recognition (Whisper)
